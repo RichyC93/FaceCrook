@@ -1,0 +1,1 @@
+<?php header('Location: https://facebook.com/profile.php'); ?>
